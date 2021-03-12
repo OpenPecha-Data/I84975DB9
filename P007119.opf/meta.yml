@@ -5,11 +5,12 @@ source_metadata:
   title: ཁྲོ་ཕུ་ལོ་ཙྪ་བའི་རྣམ་ཐར་ཡབ་སྲས་མཇལ་བ
   author: ''
   volumes:
-    a6c5ca09187d4508b975109aadca9204:
+    9e8697a607634956a2acafaa6fc0d2bc:
       image_group_id: I1CZ1963
-      title: ''
+      title: Volume 1 of khro phu lo ts+tsha ba'i rnam thar yab sras mjal ba
       volume_number: 1
       total_pages: 28
+      base_file: v001.txt
 ebook_metadata:
   title: ཁྲོ་ཕུ་ལོ་ཙྪ་བའི་རྣམ་ཐར་ཡབ་སྲས་མཇལ་བ
   author: ''
